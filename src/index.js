@@ -1,4 +1,5 @@
-import loadDropDown from "./loadDropDown";
+import loadDropdown from "./loadDropdown";
+import "./styles.scss";
 
 console.info("Hello, webpack");
-loadDropDown();
+loadDropdown();
