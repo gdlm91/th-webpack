@@ -1,5 +1,5 @@
 import "./styles.scss";
-import loadDropDown from "./loadDropDown";
+import loadDropdown from "./loadDropdown";
 
 console.info("Hello, webpack");
 loadDropDown();
